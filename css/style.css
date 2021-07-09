@@ -8,3 +8,7 @@ background-color: gainsboro;
 
     box-shadow: 2px 2px 18px #000000;
 }
+.car-border{
+    box-shadow: 2px 2px 12px #000000;
+    border: 0px;
+}
